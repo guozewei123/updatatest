@@ -5,5 +5,5 @@ class TestReport:
         assert 1
     def test_report2(self):
         print(123)
-        assert 1
+        assert 0
 
